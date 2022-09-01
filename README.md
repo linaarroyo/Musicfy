@@ -2,7 +2,7 @@
 Musicfy is a desktop application that implements React JS, Electron JS, Firebase and SASS. Musicfy is a music player application created for educational purposes.
 
 By working on this project I:
-* Learned how to use React JS, Electron JS for desktop apps
+* Learned how to use React JS and Electron JS for desktop apps
 * Learned to use Firebase and Firestore 
 * Added SASS to a project
 * Learned a login, register and security system
