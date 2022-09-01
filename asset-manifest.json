@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/linaarroyo/Musicfy/static/css/main.b76e4bef.css",
+    "main.js": "/linaarroyo/Musicfy/static/js/main.db064f85.js",
+    "static/js/787.612cf747.chunk.js": "/linaarroyo/Musicfy/static/js/787.612cf747.chunk.js",
+    "static/media/background-auth.jpg": "/linaarroyo/Musicfy/static/media/background-auth.7826ee33fd124b6d7c3d.jpg",
+    "static/media/banner-home.jpg": "/linaarroyo/Musicfy/static/media/banner-home.5e0836d7461898e58ba6.jpg",
+    "static/media/logo-name-green.png": "/linaarroyo/Musicfy/static/media/logo-name-green.0f71dd2cff8ab5e94e48.png",
+    "static/media/logo-name-white.png": "/linaarroyo/Musicfy/static/media/logo-name-white.ad63ee1b724f79b32d08.png",
+    "static/media/logo-green.png": "/linaarroyo/Musicfy/static/media/logo-green.408eb91a9869eebbc5b2.png",
+    "static/media/default-user.png": "/linaarroyo/Musicfy/static/media/default-user.8b06a5831c033cf9f4af.png",
+    "static/media/logo-white.png": "/linaarroyo/Musicfy/static/media/logo-white.d90235342c1f35b97a1b.png",
+    "static/media/no-image.png": "/linaarroyo/Musicfy/static/media/no-image.cd703f9f4bcabdf5c081.png",
+    "static/media/slick.svg": "/linaarroyo/Musicfy/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/linaarroyo/Musicfy/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/linaarroyo/Musicfy/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/linaarroyo/Musicfy/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/linaarroyo/Musicfy/index.html",
+    "main.b76e4bef.css.map": "/linaarroyo/Musicfy/static/css/main.b76e4bef.css.map",
+    "main.db064f85.js.map": "/linaarroyo/Musicfy/static/js/main.db064f85.js.map",
+    "787.612cf747.chunk.js.map": "/linaarroyo/Musicfy/static/js/787.612cf747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76e4bef.css",
+    "static/js/main.db064f85.js"
+  ]
+}
